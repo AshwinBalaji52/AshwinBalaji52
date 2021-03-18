@@ -9,9 +9,7 @@
 
 - 🤝 I’m looking for help with **Explainable-AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AshwinBalaji52](https://github.com/AshwinBalaji52)
-
-- 📝 I regularly write articles on [ashwin52.medium.com](ashwin52.medium.com)
+- 📝 I regularly write articles on [https://medium.com/@ashwin52](https://medium.com/@ashwin52)
 
 - 📫 How to reach me **bashwin52@gmail.com**
 
